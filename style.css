@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(86, 221, 81);
+    font-family: 'Times New Roman', Times, serif;
+}
+.heading{
+    font-family:'monospace';
+    font-size: 35px;
+}
+b{
+    color:yellow;
+}
